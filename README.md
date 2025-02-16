@@ -24,4 +24,4 @@ This project is open-source and available under the **MIT License**.
 
 ## 📩 Connect with Me  
 🔗 LinkedIn:  https://www.linkedin.com/in/gunn-bansal-4b415a288/
-🔗 GitHub:  
+🔗 GitHub:  https://github.com/gunnbansal
