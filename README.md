@@ -23,5 +23,5 @@ A simple Java program that calculates student grades based on their marks.
 This project is open-source and available under the **MIT License**.  
 
 ## 📩 Connect with Me  
-🔗 LinkedIn:  
+🔗 LinkedIn:  https://www.linkedin.com/in/gunn-bansal-4b415a288/
 🔗 GitHub:  
